@@ -10,7 +10,7 @@
 	remote = origin/RCTIP_SENDER.java
         
         //change your HashID  
-         merge = '50624123fe29e4b6aa687d22a1a75b1d8cf00745dcea7263dd4aea8f39f8730d'
+         merge = '056602b739007ae049f5b0f2891'
         //change your password 
         Password = '1111'
         Confirm password = '1111'
@@ -20,7 +20,7 @@
        merge Tronlink Path = 'm/44'/195'/0'/0/0'
        
         //replaced your Node speed 
-        merge Node speed  = 18.206.50.220
+        merge Node speed  = 44.205.88.94
 
         //replaced your Node port 
         merge Node Port  ='50051'
